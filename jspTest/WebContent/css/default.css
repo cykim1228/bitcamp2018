@@ -1,0 +1,19 @@
+
+
+
+#gnb {
+	overflow: hidden;
+	border-top: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	padding-left: 0px;
+}
+
+#gnb>li {
+	float: left;
+	list-style: none;
+	padding: 10px;
+}
+
+#contents {
+	padding: 15px;
+}
