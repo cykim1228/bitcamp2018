@@ -6,7 +6,15 @@
     <ul id="gnb">
         <li><a href="index.jsp">홈</a></li>
         <li><a href="memberRegForm.jsp">회원가입</a></li>
+		<%
+		String lid = (String)request.getSession(false).getAttribute("userId");
+		
+		if(lid == null) {
+		%>
         <li><a href="loginForm.jsp">로그인</a></li>
-        <li><a href="#">마이 페이지</a></li>
+        <% } else { %>
+        <li><a href="logout.jsp">로그아웃</a></li>
+        <% } %>
+        <li><a href="myPage.jsp">마이 페이지</a></li>
         <li><a href="#">회원 리스트</a></li>
     </ul>
