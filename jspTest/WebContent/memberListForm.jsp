@@ -28,7 +28,7 @@
 	
 	<h2>회원 리스트</h2>
     <hr>
-    <form action="memberReg.jsp" method="get">
+    <form>
         <table border="1">
         
             <tr>
