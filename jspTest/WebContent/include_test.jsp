@@ -8,6 +8,8 @@
 </head>
 <body>
 
+<!-- 
+
 	<div align="center">
 	
 		<h2>include 지시어 테스트</h2>
@@ -24,6 +26,8 @@
 		</table>
 	
 	</div>
-
+	
+ -->
+ 
 </body>
 </html>
