@@ -9,7 +9,10 @@
 <body>
 
 <!-- 
+<<<<<<< HEAD
+=======
 
+>>>>>>> refs/remotes/origin/master
 	<div align="center">
 	
 		<h2>include 지시어 테스트</h2>
@@ -26,7 +29,10 @@
 		</table>
 	
 	</div>
+<<<<<<< HEAD
+=======
 	
+>>>>>>> refs/remotes/origin/master
  -->
  
 </body>
