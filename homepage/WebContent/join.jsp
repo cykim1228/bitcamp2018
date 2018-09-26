@@ -4,8 +4,6 @@
     
 <jsp:useBean id="members" class="java.util.ArrayList" scope="application" />
 
-<
-    
 <!DOCTYPE html>
 <html>
 <head>
